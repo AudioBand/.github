@@ -1,9 +1,0 @@
-name: 'AudioBandProfileRepoSummarize'
-description: 'Gets all the existing profiles and summarizes them into one file.'
-inputs:
-  token:
-    description: 'GitHub Token to perform API calls. Use `secrets.GITHUB_TOKEN` for the actions bot'
-    required: true
-runs:
-  using: 'node16'
-  main: 'dist/index.js'
