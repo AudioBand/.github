@@ -5,6 +5,7 @@ It utilizes the extra white space you may have and turns it into something funct
 ![Example Image 1](https://github.com/AudioBand/.github/blob/master/profile/images/DefaultProfile.png)
 ![Example Image 2](https://github.com/AudioBand/.github/blob/master/profile/images/Ultracompact.png)
 ![Example Image 3](https://github.com/AudioBand/.github/blob/master/profile/images/Spotify.png)
+![Example Image 4](https://github.com/AudioBand/.github/blob/master/profile/images/DynamicBar.png)
 
 It supports Spotify, iTunes, MusicBee and the Windows Music API (almost all modern apps support this! [List Of Working Popular Apps](https://github.com/ModernFlyouts-Community/ModernFlyouts/blob/main/docs/GSMTC-Support-And-Popular-Apps.md))  
 Is your app not supported? You can easily [create support for your app yourself](https://audioband.github.io/AudioBand/audiosource-docs/index.html) with an ever so slight coding knowledge, or kindly ask your coding friend to do it for you!
