@@ -13,7 +13,7 @@ Is your app not supported? You can easily [create support for your app yourself]
 You can customize the size of the toolbar, every button separately, their size, color, background, you name it!  
 Even if you don't feel like customizing your own, you can download any from a plethora of options from our Community Profiles!
 
-![Community Profiles Screenshot](images/CommunityProfiles.png)
+![Community Profiles Screenshot](../profile/images/CommunityProfiles.png)
 
 ------
 
