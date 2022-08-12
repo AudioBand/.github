@@ -1,21 +1,24 @@
 # What is AudioBand?
 AudioBand is an easy to use, highly customizable music player that sits right in your Taskbar!
-It utilizes the extra white space you may have and turns it into something functional.
+It utilizes the extra white space you may have and turns it into something functional and highly customizable.
+
+![Example Image 1](images/DefaultProfile.png)
+![Example Image 2](images/Ultracompact.png)
+![Example Image 3](images/Spotify.png)
 
 It supports Spotify, iTunes, MusicBee and the Windows Music API (almost all modern apps support this! [List Of Working Popular Apps](https://github.com/ModernFlyouts-Community/ModernFlyouts/blob/main/docs/GSMTC-Support-And-Popular-Apps.md))  
 Is your app not supported? You can easily [create support for your app yourself](https://audioband.github.io/AudioBand/audiosource-docs/index.html) with an ever so slight coding knowledge, or kindly ask your coding friend to do it for you!
 
 ## Customizable, how?
-You can customize the size of the toolbar, every button separately, their size, color, background, you name it!
+You can customize the size of the toolbar, every button separately, their size, color, background, you name it!  
+Even if you don't feel like customizing your own, you can download any from a plethora of options from our Community Profiles!
 
-### Some examples
+![Community Profiles Screenshot](images/CommunityProfiles.png)
 
-![Example 1](https://raw.githubusercontent.com/AudioBand/CommunityProfiles/08aba5554fe3e295ebb59e6e4da044658c0c0c62/CustomProfiles/Default/Default.png?raw=true)
-![Example 2](https://github.com/AudioBand/CommunityProfiles/blob/08aba5554fe3e295ebb59e6e4da044658c0c0c62/CustomProfiles/Compact/Compact.png?raw=true)
-![Community Created Example](https://i.imgur.com/9AHHZk6.gif)
+------
 
-## Profile Repo
-Coming soon
+Easily share, download, edit and update your favorite profiles from within the app with this new feature!  
+[Upload your own profiles to share with the community here!](https://github.com/AudioBand/CommunityProfiles) Information on how to do so can be found in the README.md file.
 
-## Theme Repo
+## Roadmap
 Coming soon
